@@ -116,3 +116,16 @@ Try invalid inputs at each prompt (bad email, bad phone, bad ISBN, non-numeric I
 
 #### 6. Test Full Workflow
 Start the app, add a book and a member, issue the book, view active loans, return the book, and view all transactions — everything should flow smoothly end-to-end.
+
+---
+
+## 📸 Screenshots
+
+**Adding a book**
+<img width="1889" height="1386" alt="screenshot_1_add_book" src="https://github.com/user-attachments/assets/7bc80b7b-6254-4a47-8cd9-7856eb5facd0" />
+
+**Issuing a book and viewing updated availability**
+<img width="1889" height="1097" alt="screenshot_2_issue_book" src="https://github.com/user-attachments/assets/bb4f8882-5e5d-4a49-8351-8cf9d0a2d93a" />
+
+**Returning a book and input validation**
+<img width="1889" height="1097" alt="screenshot_3_return_and_validation" src="https://github.com/user-attachments/assets/62459489-aa86-4c13-9277-41fc9bda575d" />
